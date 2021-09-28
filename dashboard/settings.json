@@ -1,0 +1,15 @@
+{
+    "website" : {
+      "support": "https://discord.gg/zestavaria",
+      "domain": "http://SequenV13.gustisyahrul.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+
+        "callback": "http://SequenV13.gustisyahrul.repl.co/callback",
+        "clientID": "660449158599016457",
+        "secret": ""
+    }
+  }
